@@ -1,23 +1,44 @@
 [
   {
-    "objectID": "projects.html#project-2",
-    "href": "projects.html#project-2",
+    "objectID": "projects.html",
+    "href": "projects.html",
     "title": "Projects",
-    "section": "Project 2",
-    "text": "Project 2"
+    "section": "",
+    "text": "For this project, I am using Sonobat to analyze Autonomous Recording Unit information from various locations in the white mountains. From this, we will have a better understanding of species distribution amoung varied levels of elevation."
   },
   {
-    "objectID": "projects.html#project-3",
-    "href": "projects.html#project-3",
+    "objectID": "projects.html#bat-distribution-in-the-white-mountians",
+    "href": "projects.html#bat-distribution-in-the-white-mountians",
     "title": "Projects",
-    "section": "Project 3",
-    "text": "Project 3"
+    "section": "",
+    "text": "For this project, I am using Sonobat to analyze Autonomous Recording Unit information from various locations in the white mountains. From this, we will have a better understanding of species distribution amoung varied levels of elevation."
+  },
+  {
+    "objectID": "projects.html#spatial-abundance-of-eastern-box-turtles",
+    "href": "projects.html#spatial-abundance-of-eastern-box-turtles",
+    "title": "Projects",
+    "section": "Spatial Abundance of Eastern Box Turtles",
+    "text": "Spatial Abundance of Eastern Box Turtles\nThis project was from an internship I worked on over the summer. I focused on determining the home ranges of Eastern Box Turtles at Brookhaven National Lab. I used a dataset starting from 2003 to the present day."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "About Me",
     "section": "",
-    "text": "Thanks for checking out my web site!"
+    "text": "Hi! My name is Kalina. I am a first year master student at the University of New Hampshire. I am in the Ecological Behavior and Acoustic lab. For my thesis, I am studying bat distribution in the White Mountains.\n\n\nMy goal is to determine different covariates that make up a successful habitat for bat species. This is a side project to my thesis: I am interested in why populations are successful and how to replicate that success elsewhere.\n\n\n\nB.S. Ecology and Environmental Sciences, University of Maine\nB.A. Economics, University of Maine\nThanks for checking out my web site!"
+  },
+  {
+    "objectID": "index.html#goals",
+    "href": "index.html#goals",
+    "title": "About Me",
+    "section": "",
+    "text": "My goal is to determine different covariates that make up a successful habitat for bat species. This is a side project to my thesis: I am interested in why populations are successful and how to replicate that success elsewhere."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "About Me",
+    "section": "",
+    "text": "B.S. Ecology and Environmental Sciences, University of Maine\nB.A. Economics, University of Maine"
   }
 ]

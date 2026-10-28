@@ -3,16 +3,23 @@ title: "About Me"
 about:
   id: me
   template: broadside
-  image: img/profile.png
+  image: img/unnamed.jpg
 ---
 
 :::{#me}
+Hi! My name is Kalina. I am a first year master student at the University of New Hampshire. I am in the Ecological Behavior and Acoustic lab. For my thesis, I am studying bat distribution in the White Mountains.
+
 
 ## Goals
+My goal is to determine different covariates that make up a successful habitat for bat species. This is a side project to my thesis: I am interested in why populations are successful and how to replicate that success elsewhere.
 
 ## Education
+B.S. Ecology and Environmental Sciences, University of Maine
+
+B.A. Economics, University of Maine
 
 ## Experience
+
 
 :::
 
