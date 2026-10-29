@@ -25,7 +25,7 @@
     "href": "index.html",
     "title": "About Me",
     "section": "",
-    "text": "Hi! My name is Kalina. I am a first year master student at the University of New Hampshire. I am in the Ecological Behavior and Acoustic lab. For my thesis, I am studying bat distribution in the White Mountains.\n\n\nMy goal is to determine different covariates that make up a successful habitat for bat species. This is a side project to my thesis: I am interested in why populations are successful and how to replicate that success elsewhere.\n\n\n\nB.S. Ecology and Environmental Sciences, University of Maine\nB.A. Economics, University of Maine\nThanks for checking out my web site!"
+    "text": "Hi! My name is Kalina. I am a first year master student at the University of New Hampshire. I am in the Ecological Behavior and Acoustic lab. For my thesis, I am studying bat distribution in the White Mountains.\n\n\nMy goal is to determine different covariates that make up a successful habitat for bat species. This is a side project to my thesis: I am interested in why populations are successful and how to replicate that success elsewhere.\n\n\n\nB.S. Ecology and Environmental Sciences, University of Maine\nB.A. Economics, University of Maine\n\n\n\nScientific writing :)\nThanks for checking out my web site!"
   },
   {
     "objectID": "index.html#goals",
@@ -40,5 +40,12 @@
     "title": "About Me",
     "section": "",
     "text": "B.S. Ecology and Environmental Sciences, University of Maine\nB.A. Economics, University of Maine"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "About Me",
+    "section": "",
+    "text": "Scientific writing :)"
   }
 ]
